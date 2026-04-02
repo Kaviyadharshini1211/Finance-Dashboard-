@@ -109,6 +109,8 @@ npm start
 ### 4. Access API Docs
 
 Open [http://localhost:5000/api-docs](http://localhost:5000/api-docs) in your browser.
+Open Deployed [https://finance-dashboard-f1uw.onrender.com/api-docs/](https://finance-dashboard-f1uw.onrender.com/api-docs/) in your browser.
+
 
 ### 5. Run Tests
 
