@@ -20,6 +20,7 @@ A backend API for a finance dashboard system with role-based access control, fin
 ## Demo Credentials
  
 Use these to test the API instantly via Swagger (`/api-docs`) or Postman without creating your own users.
+
 Open Deployed [https://finance-dashboard-f1uw.onrender.com/api-docs/](https://finance-dashboard-f1uw.onrender.com/api-docs/) in your browser.
  
 | Role | Email | Password |
