@@ -17,6 +17,22 @@ A backend API for a finance dashboard system with role-based access control, fin
 | Testing | Jest + Supertest |
 
 ---
+## Demo Credentials
+ 
+Use these to test the API instantly via Swagger (`/api-docs`) or Postman without creating your own users.
+Open Deployed [https://finance-dashboard-f1uw.onrender.com/api-docs/](https://finance-dashboard-f1uw.onrender.com/api-docs/) in your browser.
+ 
+| Role | Email | Password |
+|------|-------|----------|
+| Admin | admin@demo.com | demo1234 |
+| Analyst | analyst@demo.com | demo1234 |
+| Viewer | viewer@demo.com | demo1234 |
+ 
+**How to use in Swagger:**
+1. Call `POST /api/auth/login` with any credential above
+2. Copy the `token` from the response
+3. Click **Authorize** at the top of the Swagger page
+4. Paste as `Bearer <token>`
 
 ## Project Structure
 
