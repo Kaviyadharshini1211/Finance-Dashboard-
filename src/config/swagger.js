@@ -14,7 +14,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:5000/api",
+        url: "https://finance-dashboard-f1uw.onrender.com/api",
         description: "Development Server",
       },
     ],
